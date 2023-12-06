@@ -2,7 +2,7 @@
 ---
 Website for Reliability of Generative Models in Vision Tutorial at WACV 2024, *January 7,TBD* 
 
-Hosted by [Changhoon Kim](https://www.changhoonkim.com/), [Gowthami Somepalli](https://somepago.github.io/), [Tejas Gokhale](https://www.tejasgokhale.com/) and [Yezhou Yang](https://yezhouyang.engineering.asu.edu/) (Arizona State University)
+Hosted by [Changhoon Kim](https://www.changhoonkim.com/) (ASU), [Gowthami Somepalli](https://somepago.github.io/) (UMD), [Tejas Gokhale](https://www.tejasgokhale.com/) (UMBC) and [Yezhou Yang](https://yezhouyang.engineering.asu.edu/) (ASU)
 
 ## Agenda
 Over the past few years, generative models have evolved from simple research concepts to production-ready tools, dramatically reshaping the tech landscape. Their outstanding generative capabilities have gained traction in various sectors, such as entertainment, art, journalism, and education. However, a closer look reveals that these models face several reliability issues that can impact their widespread adoption. A primary concern is the models' ability to memorize training data, which might result in copyright breaches. Reliability concerns also encompass the model's occasional failure to accurately follow prompts, inherent biases, misrepresentations, and hallucinations. Moreover, with increasing awareness, issues related to privacy and potential misuse underscore the urgent need to safeguard these models. To move forward responsibly with these models, we must adopt solutions to address memorization challenges, robust evaluation systems, and active fingerprinting solutions. These measures will help monitor the progress and ensure responsible and effective use of image-generative models.
