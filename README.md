@@ -1,5 +1,4 @@
-# SERUM @ WACV 2023
-### *SE*mantic Data Engineering for *R*obustness *U*nder *M*ultimodal Settings
+# Reliability of Generative Models in Vision @ WACV 2024
 ---
 Website for SERUM Tutorial at WACV 2023, *January 7, 2PM to 5PM* 
 
