@@ -24,7 +24,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		<td> 1400--1410 </td>
 		<td> Welcome and Introduction </td>
 		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="https://test-fac-yezhou-yang.pantheonsite.io/wp-content/uploads/2018/07/CIDSE-Yezhou-Yang-Lab-MAC0089a-small.jpg" width="50%"/>   
+			<img style="padding-right: 5%; float: left;" src="images/yezhouyang.webp" width="50%"/>   
 			<a href="https://yezhouyang.engineering.asu.edu/">Yezhou Yang</a> <br/>(Associate Professor, ASU
 		</td>
 	</tr>
@@ -32,7 +32,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		<td> 1410--1425 </td>
 		<td> Recent Advances and Reliability Concerns in Image Generation </td>
 		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="https://lh5.googleusercontent.com/o9TzTeYlb9Ki66NoadT2pwwvCDmEtgqLfal2xstWkAWaalE2QKDNbyzWDwTSDo2TmxvX22KcJRJkRQb9EMOzwadkquyNhahzbn0ccRzH9wL7fv0A377RU-bPZeqJzbjsIA=w1280" width="50%"/>   
+			<img style="padding-right: 5%; float: left;" src="images/changhoonkim.jpg" width="50%"/>   
 			<a href="https://changhoonkim.com">Changhoon Kim</a> <br/> (Ph.D. Candidate, ASU)
 		</td>
 	</tr>
@@ -40,7 +40,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		<td> 1425--1455 </td>
 		<td> Understanding training data memorization in diffusion models and ways to mitigate it </td>
 		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="https://somepago.github.io/files/g_dp_crop.jpg" width="50%"/>   
+			<img style="padding-right: 5%; float: left;" src="images/gowthamisomepalli.jpg" width="50%"/>   
 			<a href="https://somepago.github.io/">Gowthami Somepalli</a> <br/> (Ph.D. Candidate, UMD)
 		</td>
 	</tr>
@@ -48,7 +48,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		<td> 1455--1525 </td>
 		<td> Attribution and Fingerprinting of Image Generative Models </td>
 		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="https://lh5.googleusercontent.com/o9TzTeYlb9Ki66NoadT2pwwvCDmEtgqLfal2xstWkAWaalE2QKDNbyzWDwTSDo2TmxvX22KcJRJkRQb9EMOzwadkquyNhahzbn0ccRzH9wL7fv0A377RU-bPZeqJzbjsIA=w1280" width="50%"/>   
+			<img style="padding-right: 5%; float: left;" src="images/changhoonkim.jpg" width="50%"/>   
 			<a href="https://changhoonkim.com">Changhoon Kim</a> <br/> (Ph.D. Candidate, ASU)
 		</td>
 	</tr>
@@ -56,7 +56,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		<td> 1525--1555 </td>
 		<td> Challenges with Evaluation of Text-to-Image Models </td>
 		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="https://www.tejasgokhale.com/images/tejas/tg_hawaii.jpg" width="50%">   
+			<img style="padding-right: 5%; float: left;" src="images/tg_hawaii.jpg" width="50%">   
 			<a href="https://www.tejasgokhale.com/">Tejas Gokhale</a> <br/> (Assistant Professor, UMBC)
 		</td>
 	</tr>
@@ -82,7 +82,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		<td> 1645--1700 </td> 
 		<td> Concluding Remarks</td>
 		<td valign="center">
-			<img style="padding-right: 5%; float: left;" src="https://lh5.googleusercontent.com/o9TzTeYlb9Ki66NoadT2pwwvCDmEtgqLfal2xstWkAWaalE2QKDNbyzWDwTSDo2TmxvX22KcJRJkRQb9EMOzwadkquyNhahzbn0ccRzH9wL7fv0A377RU-bPZeqJzbjsIA=w1280" width="50%"/>   
+			<img style="padding-right: 5%; float: left;" src="images/changhoonkim.jpg" width="50%"/>   
 			<a href="https://changhoonkim.com">Changhoon Kim</a> <br/> (Ph.D. Candidate, ASU)
 		</td>
 	</tr>
