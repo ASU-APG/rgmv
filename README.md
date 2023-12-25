@@ -82,7 +82,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		<td> 1645--1700 </td> 
 		<td> Concluding Remarks</td>
 		<td valign="center">
-			<img style="padding-right: 5%; float: left;" src="https://lh5.googleusercontent.com/o9TzTeYlb9Ki66NoadT2pwwvCDmEtgqLfal2xstWkAWaalE2QKDNbyzWDwTSDo2TmxvX22KcJRJkRQb9EMOzwadkquyNhahzbn0ccRzH9wL7fv0A377RU-bPZeqJzbjsIA=w1280" width="50%"/>   
+			<img style="padding-right: 5%; float: left;" src="https://pbs.twimg.com/profile_images/1663820745406021633/jmcZrnC7_400x400.jpg" width="50%"/>   
 			<a href="https://changhoonkim.com">Changhoon Kim</a> <br/> (Ph.D. Candidate, ASU)
 		</td>
 	</tr>
