@@ -1,6 +1,6 @@
 # Reliability of Generative Models in Vision @ WACV 2024
 ---
-Website for Reliability of Generative Models in Vision Tutorial at WACV 2024, *January 7,TBD* 
+Website for Reliability of Generative Models in Vision Tutorial at WACV 2024, *January 8, 2pm to 5pm* 
 
 Hosted by [Changhoon Kim](https://www.changhoonkim.com/) (ASU), [Gowthami Somepalli](https://somepago.github.io/) (UMD), [Tejas Gokhale](https://www.tejasgokhale.com/) (UMBC) and [Yezhou Yang](https://yezhouyang.engineering.asu.edu/) (ASU)
 
@@ -62,31 +62,25 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 	</tr>
 	<tr>
 		<td> 1555--1620 </td>
-		<td> Invited Talk 1 </td>
+		<td> Invited Talk 1: Characterizing and Mitigating the Misalignment Between the Evaluation of Generative Models and their Intended Use Cases </td>
 		<td valign="center"> 
-			TBD
-			<!-- <img style="padding-right: 5%; float: left;" src="https://www.tejasgokhale.com/images/tejas/tg_hawaii.jpg" width="50%">   
-			<a href="https://www.tejasgokhale.com/">Tejas Gokhale</a> <br/> (Assistant Professor, UMBC) -->
+			<img style="padding-right: 5%; float: left;" src="images/josh.jpeg" width="50%"/>   
+			<a href="https://www.linkedin.com/in/joshua-feinglass-b1ba23a2/">Joshua Feinglass</a> <br/> (Ph.D. Candidate, ASU)
 		</td>
 	</tr>
 	<tr>
 		<td> 1620--1645 </td>
-		<td> Invited Talk 2 </td>
+		<td> Invited Talk 2: ECLIPSE </td>
 		<td valign="center"> 
-			TBD
-			<!-- <img style="padding-right: 5%; float: left;" src="https://www.tejasgokhale.com/images/tejas/tg_hawaii.jpg" width="50%">   
-			<a href="https://www.tejasgokhale.com/">Tejas Gokhale</a> <br/> (Assistant Professor, UMBC) -->
+			<img style="padding-right: 5%; float: left;" src="images/matt.jpeg" width="50%"/>   
+			<a href="https://maitreyapatel.com/">Maitreya Patel</a> <br/> (Ph.D. Student, ASU)
 		</td>
 	</tr>
 	<tr>
 		<td> 1645--1700 </td> 
 		<td> Concluding Remarks</td>
 		<td valign="center">
-<<<<<<< HEAD
-			<img style="padding-right: 5%; float: left;" src="https://pbs.twimg.com/profile_images/1663820745406021633/jmcZrnC7_400x400.jpg" width="50%"/>   
-=======
 			<img style="padding-right: 5%; float: left;" src="images/changhoonkim.jpg" width="50%"/>   
->>>>>>> 90efb595920cd9a1ef4e20bc494b2a21ee1a770b
 			<a href="https://changhoonkim.com">Changhoon Kim</a> <br/> (Ph.D. Candidate, ASU)
 		</td>
 	</tr>
