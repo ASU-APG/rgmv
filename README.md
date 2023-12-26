@@ -70,9 +70,9 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 	</tr>
 	<tr>
 		<td> 1620--1645 </td>
-		<td> Invited Talk 2: ECLIPSE </td>
+		<td> Invited Talk 2: Towards Robust Text-to-Image Generative Models in Resource-Efficient Manner </td>
 		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="images/matt.jpeg" width="50%"/>   
+			<img style="padding-right: 5%; float: left;" src="images/matt.jpg" width="50%"/>   
 			<a href="https://maitreyapatel.com/">Maitreya Patel</a> <br/> (Ph.D. Student, ASU)
 		</td>
 	</tr>
