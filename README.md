@@ -1,6 +1,6 @@
 # Reliability of Generative Models in Vision @ WACV 2024
 ---
-Website for Reliability of Generative Models in Vision Tutorial at WACV 2024, *January 8, 2pm to 5pm* 
+Website for Reliability of Generative Models in Vision Tutorial at WACV 2024, *January 8, 1pm to 5pm* 
 
 Hosted by [Changhoon Kim](https://www.changhoonkim.com/) (ASU), [Gowthami Somepalli](https://somepago.github.io/) (UMD), [Tejas Gokhale](https://www.tejasgokhale.com/) (UMBC) and [Yezhou Yang](https://yezhouyang.engineering.asu.edu/) (ASU)
 
@@ -21,7 +21,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		<th> Presenter </th>
 	</tr>
 	<tr>
-		<td> 1400--1410 </td>
+		<td> 1300--1310 </td>
 		<td> Welcome and Introduction </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/yezhouyang.webp" width="50%"/>   
@@ -29,7 +29,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		</td>
 	</tr>
 	<tr>
-		<td> 1410--1425 </td>
+		<td> 1310--1325 </td>
 		<td> Recent Advances and Reliability Concerns in Image Generation </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/changhoonkim.jpg" width="50%"/>   
@@ -37,7 +37,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		</td>
 	</tr>
 	<tr>
-		<td> 1425--1455 </td>
+		<td> 1325--1355 </td>
 		<td> Understanding training data memorization in diffusion models and ways to mitigate it </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/gowthamisomepalli.jpg" width="50%"/>   
@@ -45,7 +45,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		</td>
 	</tr>
 	<tr>
-		<td> 1455--1525 </td>
+		<td> 1355--1425 </td>
 		<td> Attribution and Fingerprinting of Image Generative Models </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/changhoonkim.jpg" width="50%"/>   
@@ -53,7 +53,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		</td>
 	</tr>
 	<tr>
-		<td> 1525--1555 </td>
+		<td> 1425--1455 </td>
 		<td> Challenges with Evaluation of Text-to-Image Models </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/tg_hawaii.jpg" width="50%">   
@@ -61,7 +61,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		</td>
 	</tr>
 	<tr>
-		<td> 1555--1620 </td>
+		<td> 1455--1520 </td>
 		<td> Invited Talk 1: Characterizing and Mitigating the Misalignment Between the Evaluation of Generative Models and their Intended Use Cases </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/josh.jpeg" width="50%"/>   
@@ -69,7 +69,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		</td>
 	</tr>
 	<tr>
-		<td> 1620--1645 </td>
+		<td> 1520--1545 </td>
 		<td> Invited Talk 2: Towards Robust Text-to-Image Generative Models in Resource-Efficient Manner </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/matt.jpg" width="50%"/>   
@@ -77,7 +77,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		</td>
 	</tr>
 	<tr>
-		<td> 1645--1700 </td> 
+		<td> 1545--1600 </td> 
 		<td> Concluding Remarks</td>
 		<td valign="center">
 			<img style="padding-right: 5%; float: left;" src="images/changhoonkim.jpg" width="50%"/>   
